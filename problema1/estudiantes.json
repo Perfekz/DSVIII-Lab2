@@ -1,0 +1,182 @@
+[
+    {
+        "cedula": "8-123-456",
+        "nombre": "Marcos",
+        "parcial1": 85,
+        "parcial2": 90,
+        "proyecto": 95,
+        "notaFinal": 90.5,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-234-567",
+        "nombre": "Ana",
+        "parcial1": 70,
+        "parcial2": 65,
+        "proyecto": 80,
+        "notaFinal": 72.5,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-345-678",
+        "nombre": "Carlos",
+        "parcial1": 95,
+        "parcial2": 88,
+        "proyecto": 92,
+        "notaFinal": 91.7,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-456-789",
+        "nombre": "Lucia",
+        "parcial1": 60,
+        "parcial2": 75,
+        "proyecto": 80,
+        "notaFinal": 72.5,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-5657-890",
+        "nombre": "Pedro",
+        "parcial1": 50,
+        "parcial2": 65,
+        "proyecto": 70,
+        "notaFinal": 62.5,
+        "clasificacion": "REPROBADO"
+    },
+    {
+        "cedula": "8-678-901",
+        "nombre": "Sofia",
+        "parcial1": 90,
+        "parcial2": 95,
+        "proyecto": 98,
+        "notaFinal": 94.7,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-789-012",
+        "nombre": "Diego",
+        "parcial1": 72,
+        "parcial2": 70,
+        "proyecto": 75,
+        "notaFinal": 72.6,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-890-123",
+        "nombre": "Valeria",
+        "parcial1": 100,
+        "parcial2": 95,
+        "proyecto": 100,
+        "notaFinal": 98.5,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-901-234",
+        "nombre": "Andres",
+        "parcial1": 65,
+        "parcial2": 60,
+        "proyecto": 70,
+        "notaFinal": 65.5,
+        "clasificacion": "REPROBADO"
+    },
+    {
+        "cedula": "8-0162-3845",
+        "nombre": "Isabella",
+        "parcial1": 80,
+        "parcial2": 85,
+        "proyecto": 90,
+        "notaFinal": 85.5,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-111-222",
+        "nombre": "Jose",
+        "parcial1": 55,
+        "parcial2": 60,
+        "proyecto": 65,
+        "notaFinal": 60.5,
+        "clasificacion": "REPROBADO"
+    },
+    {
+        "cedula": "8-222-333",
+        "nombre": "Camila",
+        "parcial1": 88,
+        "parcial2": 92,
+        "proyecto": 95,
+        "notaFinal": 92.0,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-333-444",
+        "nombre": "Miguel",
+        "parcial1": 71,
+        "parcial2": 71,
+        "proyecto": 71,
+        "notaFinal": 71.0,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-4544-5555",
+        "nombre": "Daniela",
+        "parcial1": 40,
+        "parcial2": 55,
+        "proyecto": 60,
+        "notaFinal": 52.5,
+        "clasificacion": "REPROBADO"
+    },
+    {
+        "cedula": "8-555-666",
+        "nombre": "Samuel",
+        "parcial1": 75,
+        "parcial2": 80,
+        "proyecto": 85,
+        "notaFinal": 80.5,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-666-777",
+        "nombre": "Paula",
+        "parcial1": 93,
+        "parcial2": 89,
+        "proyecto": 96,
+        "notaFinal": 93.0,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-777-888",
+        "nombre": "Gabriel",
+        "parcial1": 68,
+        "parcial2": 72,
+        "proyecto": 75,
+        "notaFinal": 72.0,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-888-999",
+        "nombre": "Elena",
+        "parcial1": 82,
+        "parcial2": 78,
+        "proyecto": 88,
+        "notaFinal": 83.2,
+        "clasificacion": "APROBADO"
+    },
+    {
+        "cedula": "8-999-111",
+        "nombre": "Adrian",
+        "parcial1": 59,
+        "parcial2": 64,
+        "proyecto": 62,
+        "notaFinal": 61.7,
+        "clasificacion": "REPROBADO"
+    },
+    {
+        "cedula": "8-101-202",
+        "nombre": "Natalia",
+        "parcial1": 97,
+        "parcial2": 94,
+        "proyecto": 99,
+        "notaFinal": 96.9,
+        "clasificacion": "APROBADO"
+    }
+]
