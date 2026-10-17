@@ -1,0 +1,182 @@
+[
+    {
+        "codigo": "P001",
+        "producto": "Teclado Dell KB216",
+        "cantidad": 25,
+        "precio": 18.5
+    },
+    {
+        "codigo": "P002",
+        "producto": "Mouse HP X1000",
+        "cantidad": 40,
+        "precio": 12.75
+    },
+    {
+        "codigo": "P003",
+        "producto": "Monitor Samsung 24 pulgadas",
+        "cantidad": 15,
+        "precio": 149.99
+    },
+    {
+        "codigo": "P004",
+        "producto": "Laptop Lenovo IdeaPad 3",
+        "cantidad": 10,
+        "precio": 579.99
+    },
+    {
+        "codigo": "P005",
+        "producto": "Celular Samsung Galaxy A15",
+        "cantidad": 18,
+        "precio": 199.99
+    },
+    {
+        "codigo": "P006",
+        "producto": "Tablet Lenovo Tab M10",
+        "cantidad": 12,
+        "precio": 169.5
+    },
+    {
+        "codigo": "P007",
+        "producto": "Monitor LG UltraGear 27 pulgadas",
+        "cantidad": 8,
+        "precio": 299.99
+    },
+    {
+        "codigo": "P008",
+        "producto": "Impresora HP DeskJet 2775",
+        "cantidad": 7,
+        "precio": 89.99
+    },
+    {
+        "codigo": "P009",
+        "producto": "Audifonos Sony WH-CH520",
+        "cantidad": 22,
+        "precio": 59.99
+    },
+    {
+        "codigo": "P010",
+        "producto": "Bocina RCA Bluetooth",
+        "cantidad": 20,
+        "precio": 34.95
+    },
+    {
+        "codigo": "P011",
+        "producto": "Televisor LG Smart TV 43 pulgadas",
+        "cantidad": 6,
+        "precio": 329.99
+    },
+    {
+        "codigo": "P012",
+        "producto": "Disco duro externo Seagate 1TB",
+        "cantidad": 14,
+        "precio": 64.99
+    },
+    {
+        "codigo": "P013",
+        "producto": "Memoria USB Kingston 64GB",
+        "cantidad": 35,
+        "precio": 9.99
+    },
+    {
+        "codigo": "P014",
+        "producto": "Webcam Logitech C920",
+        "cantidad": 11,
+        "precio": 69.99
+    },
+    {
+        "codigo": "P015",
+        "producto": "Router TP-Link Archer C6",
+        "cantidad": 13,
+        "precio": 49.99
+    },
+    {
+        "codigo": "P016",
+        "producto": "Cargador Anker USB-C",
+        "cantidad": 28,
+        "precio": 24.99
+    },
+    {
+        "codigo": "P017",
+        "producto": "Smartwatch Xiaomi Redmi Watch 3",
+        "cantidad": 16,
+        "precio": 79.99
+    },
+    {
+        "codigo": "P018",
+        "producto": "Consola Nintendo Switch Lite",
+        "cantidad": 5,
+        "precio": 199.99
+    },
+    {
+        "codigo": "P019",
+        "producto": "Control Sony PlayStation 5",
+        "cantidad": 9,
+        "precio": 69.99
+    },
+    {
+        "codigo": "P020",
+        "producto": "Microfono HyperX SoloCast",
+        "cantidad": 10,
+        "precio": 59.99
+    },
+    {
+        "codigo": "P021",
+        "producto": "Camara Canon EOS Rebel T7",
+        "cantidad": 4,
+        "precio": 449.99
+    },
+    {
+        "codigo": "P022",
+        "producto": "Proyector Epson EpiqVision",
+        "cantidad": 3,
+        "precio": 399.99
+    },
+    {
+        "codigo": "P023",
+        "producto": "Bateria portatil Belkin 10000mAh",
+        "cantidad": 19,
+        "precio": 29.99
+    },
+    {
+        "codigo": "P024",
+        "producto": "Adaptador USB-C UGREEN",
+        "cantidad": 24,
+        "precio": 19.99
+    },
+    {
+        "codigo": "P025",
+        "producto": "Lector Kindle Paperwhite",
+        "cantidad": 7,
+        "precio": 139.99
+    },
+    {
+        "codigo": "P026",
+        "producto": "Reproductor Roku Express",
+        "cantidad": 15,
+        "precio": 29.99
+    },
+    {
+        "codigo": "P027",
+        "producto": "Monitor Dell P2422H",
+        "cantidad": 9,
+        "precio": 219.99
+    },
+    {
+        "codigo": "P028",
+        "producto": "Laptop HP Pavilion 15",
+        "cantidad": 8,
+        "precio": 649.99
+    },
+    {
+        "codigo": "P029",
+        "producto": "Celular Motorola Moto G54",
+        "cantidad": 14,
+        "precio": 249.99
+    },
+    {
+        "codigo": "P030",
+        "producto": "Televisor Samsung Crystal UHD 50 pulgadas",
+        "cantidad": 57,
+        "precio": 429.99
+    }
+]
