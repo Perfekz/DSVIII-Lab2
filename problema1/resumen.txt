@@ -1,0 +1,7 @@
+Resumen de Estudiantes
+---------------------
+Promedio General: 78.49
+Mayor Nota Final: 98.50
+Menor Nota Final: 52.50
+Cantidad de Aprobados: 15
+Cantidad de Reprobados: 5
