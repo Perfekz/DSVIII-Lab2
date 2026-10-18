@@ -1,0 +1,245 @@
+[
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-01",
+    "hora": "08:00",
+    "temperatura": 28.5,
+    "humedad": 75.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-01",
+    "hora": "08:00",
+    "temperatura": 30.2,
+    "humedad": 80.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S03",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-01",
+    "hora": "08:00",
+    "temperatura": 27.8,
+    "humedad": 82.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S05",
+    "ubicacion": "Edificio E",
+    "fecha": "2026-10-01",
+    "hora": "08:00",
+    "temperatura": 29.1,
+    "humedad": 78.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S04",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-01",
+    "hora": "08:00",
+    "temperatura": 26.9,
+    "humedad": 69.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 32.4,
+    "humedad": 62.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 33.1,
+    "humedad": 85.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 31.7,
+    "humedad": 60.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S04",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 34.0,
+    "humedad": 58.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S03",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 30.5,
+    "humedad": 94.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S05",
+    "ubicacion": "Edificio E",
+    "fecha": "2026-10-02",
+    "hora": "18:00",
+    "temperatura": 29.3,
+    "humedad": 74.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-03",
+    "hora": "18:00",
+    "temperatura": 30.8,
+    "humedad": 77.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S03",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-03",
+    "hora": "18:00",
+    "temperatura": 28.6,
+    "humedad": 79.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-03",
+    "hora": "08:00",
+    "temperatura": 28.2,
+    "humedad": 82.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S05",
+    "ubicacion": "Edificio E",
+    "fecha": "2026-10-03",
+    "hora": "08:00",
+    "temperatura": 27.4,
+    "humedad": 85.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S03",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-03",
+    "hora": "08:00",
+    "temperatura": 27.9,
+    "humedad": 80.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-03",
+    "hora": "08:00",
+    "temperatura": 29.5,
+    "humedad": 83.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S04",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-03",
+    "hora": "12:00",
+    "temperatura": 33.6,
+    "humedad": 59.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-04",
+    "hora": "12:00",
+    "temperatura": 35.2,
+    "humedad": 55.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S05",
+    "ubicacion": "Edificio E",
+    "fecha": "2026-10-04",
+    "hora": "12:00",
+    "temperatura": 31.9,
+    "humedad": 61.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-04",
+    "hora": "12:00",
+    "temperatura": 32.8,
+    "humedad": 93.0,
+    "estado": "ALERTA"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-04",
+    "hora": "18:00",
+    "temperatura": 31.2,
+    "humedad": 70.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S04",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-04",
+    "hora": "18:00",
+    "temperatura": 29.7,
+    "humedad": 73.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-04",
+    "hora": "18:00",
+    "temperatura": 30.4,
+    "humedad": 71.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S05",
+    "ubicacion": "Edificio E",
+    "fecha": "2026-10-04",
+    "hora": "18:00",
+    "temperatura": 28.8,
+    "humedad": 76.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-04",
+    "hora": "18:00",
+    "temperatura": 29.9,
+    "humedad": 75.0,
+    "estado": "NORMAL"
+  },
+  {
+    "sensor": "S03",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-04",
+    "hora": "08:00",
+    "temperatura": 38.7,
+    "humedad": 84.0,
+    "estado": "ALERTA"
+  }
+]
