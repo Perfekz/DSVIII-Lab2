@@ -7,7 +7,7 @@ control = ControlMedicion(
     archivoSProcesados="sensores_procesados.json",
 )
 
-    # 1. Leer el CSV y guardar las mediciones en una lista de objetos Medicion
+    # 1. Leer el CSV y guardar las mediciones en una lista de objetos Medicion (antes de ejecutar, hacer cd problema3)
 control.leer_mediciones()
 
     # 2. Validar con Polars (identificadores, humedad 0-100, registros incompletos)
