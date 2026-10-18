@@ -1,0 +1,122 @@
+[
+  {
+    "sensor": "S03",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-01",
+    "hora": "08:00",
+    "temperatura": 27.8,
+    "humedad": 82.0,
+    "estado": "ALERTA",
+    "motivo": "Humedad 82.0 % supera 80 %"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 32.4,
+    "humedad": 62.0,
+    "estado": "ALERTA",
+    "motivo": "Temperatura 32.4 °C supera 32.0 °C"
+  },
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 33.1,
+    "humedad": 85.0,
+    "estado": "ALERTA",
+    "motivo": "Temperatura 33.1 °C supera 32.0 °C y Humedad 85.0 % supera 80 %"
+  },
+  {
+    "sensor": "S04",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 34.0,
+    "humedad": 58.0,
+    "estado": "ALERTA",
+    "motivo": "Temperatura 34.0 °C supera 32.0 °C"
+  },
+  {
+    "sensor": "S03",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-02",
+    "hora": "12:00",
+    "temperatura": 30.5,
+    "humedad": 94.0,
+    "estado": "ALERTA",
+    "motivo": "Humedad 94.0 % supera 80 %"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-03",
+    "hora": "08:00",
+    "temperatura": 28.2,
+    "humedad": 82.0,
+    "estado": "ALERTA",
+    "motivo": "Humedad 82.0 % supera 80 %"
+  },
+  {
+    "sensor": "S05",
+    "ubicacion": "Edificio E",
+    "fecha": "2026-10-03",
+    "hora": "08:00",
+    "temperatura": 27.4,
+    "humedad": 85.0,
+    "estado": "ALERTA",
+    "motivo": "Humedad 85.0 % supera 80 %"
+  },
+  {
+    "sensor": "S02",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-03",
+    "hora": "08:00",
+    "temperatura": 29.5,
+    "humedad": 83.0,
+    "estado": "ALERTA",
+    "motivo": "Humedad 83.0 % supera 80 %"
+  },
+  {
+    "sensor": "S04",
+    "ubicacion": "Edificio B",
+    "fecha": "2026-10-03",
+    "hora": "12:00",
+    "temperatura": 33.6,
+    "humedad": 59.0,
+    "estado": "ALERTA",
+    "motivo": "Temperatura 33.6 °C supera 32.0 °C"
+  },
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-04",
+    "hora": "12:00",
+    "temperatura": 35.2,
+    "humedad": 55.0,
+    "estado": "ALERTA",
+    "motivo": "Temperatura 35.2 °C supera 32.0 °C"
+  },
+  {
+    "sensor": "S01",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-04",
+    "hora": "12:00",
+    "temperatura": 32.8,
+    "humedad": 93.0,
+    "estado": "ALERTA",
+    "motivo": "Temperatura 32.8 °C supera 32.0 °C y Humedad 93.0 % supera 80 %"
+  },
+  {
+    "sensor": "S03",
+    "ubicacion": "Edificio A",
+    "fecha": "2026-10-04",
+    "hora": "08:00",
+    "temperatura": 38.7,
+    "humedad": 84.0,
+    "estado": "ALERTA",
+    "motivo": "Temperatura 38.7 °C supera 32.0 °C y Humedad 84.0 % supera 80 %"
+  }
+]
